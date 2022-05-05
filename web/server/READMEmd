@@ -1,0 +1,15 @@
+npx prisma studio
+npm run dev
+
+
+#SOLID -- NOTES
+
+1. Single Responsability
+    Cada classe tem uma responsabilidade única
+2. Open/Closed Principle
+    As classes da aplicação devem ser abertas para extensão mas fechadas para modificação
+3. Liskov Substitution Principle
+    Nós devemos poder substituir uma classa pai por uma herança dela e tudo continuar funcionando
+4. Interface Segregation Principle
+5. Dependency Inversion Principle
+    
